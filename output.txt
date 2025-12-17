@@ -1,0 +1,123 @@
+====== SMART WANDERPLAN - COMPREHENSIVE TRAVEL PLANNER ======
+
+Enter customer details (type 'x' anytime to restart):
+Name of the customer: Harshitha
+Enter your 10-digit number: 9876543210
+Enter your email: harshitha@gmail.com
+Number of adults traveling: 2
+Number of children traveling: 1
+Trip purpose (family/couple/friends/solo): family
+
+-------> WELCOME TO SMART WANDERPLAN <-------
+--- Customer Details ---
+Name: Harshitha
+Number: 9876543210
+Email: harshitha@gmail.com
+Travelers: 2 adults, 1 children
+Trip Purpose: family
+
+Select trip type:
+1. National
+2. International
+Enter choice: 2
+
+--- Available Budget Ranges for International Trips ---
+1. Budget (50,000-1,00,000 INR)
+2. Mid-Range (1,00,000-2,00,000 INR)
+3. Premium (2,00,000+ INR)
+
+Select budget range (1-3): 1
+
+Available destinations in your selected range:
+1. Vietnam
+2. Thailand
+3. Malaysia
+
+Select a destination (1-3): 1
+
+--- Vietnam Destination Details ---
+
+Estimated Total Cost: 85000 - 135000 INR (24650000 VND)
+
+Best Season to Visit: November-April
+Typical Weather: Tropical (20-35°C)
+Visa Information: Visa required
+
+Top Attractions:
+- Ha Long Bay
+- Hoi An
+- Hanoi Old Quarter
+- Cu Chi Tunnels
+- Mekong Delta
+
+Must-Try Foods:
+- Pho
+- Banh Mi
+- Bun Cha
+- Goi Cuon
+- Cao Lau
+
+Itinerary Options:
+
+Option 1:
+- Day 1: Hanoi arrival
+- Day 2: Ha Long cruise
+- Day 3: Hoi An
+
+Option 2:
+- Day 1: Food tour
+- Day 2: Cu Chi Tunnels
+- Day 3: Mekong
+
+Option 3:
+- Day 1: City tour
+- Day 2: Countryside
+- Day 3: Relax
+
+--- Transport Options for Vietnam ---
+Mode        Adult Fare     Child Fare     Total (2A,1C)
+-------------------------------------------------------
+Flight      25000 INR      17500 INR      67500 INR
+
+Would you like to book transport? (y/n): y
+Enter transport mode: Flight
+
+Booking confirmed for Flight to Vietnam!
+Total transport cost: 67500 INR
+
+Enter number of nights for stay: 3
+
+--- Hotel Options in Vietnam ---
+Option  Hotel Name        Location        Price/Night   Total Cost
+------------------------------------------------------------------
+1       Hanoi Grand       Hanoi           8000 INR      24000 INR
+   Amenities: Family-friendly Pool Restaurant
+2       Saigon Central    Ho Chi Minh      8500 INR      25500 INR
+   Amenities: Family-friendly Pool Restaurant
+3       Halong Bay View   Halong           9000 INR      27000 INR
+   Amenities: Family-friendly Pool Restaurant
+
+Would you like to book a hotel? (y/n): y
+Enter hotel option number: 1
+
+Booking confirmed at Hanoi Grand!
+Total hotel cost for 3 nights: 24000 INR
+
+====== TRIP SUMMARY ======
+Destination: Vietnam
+Trip Type: International
+Travelers: 2 adults, 1 children
+
+Estimated Travel Cost (INR): 85000 - 135000
+Converted Currency (VND): 24650000
+
+Transport Booked: Flight
+Transport Cost: 67500 INR
+
+Hotel Booked: Hanoi Grand
+Hotel Cost: 24000 INR
+
+Trip Purpose: Family
+Best Season: November-April
+
+Thank you for using Smart WanderPlan!
