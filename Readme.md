@@ -1,4 +1,4 @@
-# Smart WanderPlan – Travel Planning System (C++)
+# Smart WanderPlan â€“ Travel Planning System (C++)
 
 ## Overview
 Smart WanderPlan is a console-based travel planning system developed in C++.
@@ -31,3 +31,4 @@ hotel accommodations, and itineraries.
 ## How to Run
 1. Compile the program:
    g++ main.cpp -o wanderplan
+
